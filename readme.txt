@@ -103,6 +103,3 @@ base.
 12. Backup and Recovery:
 a. Regular automated backups of the MySQL database using tools like mysqldump.
 b. A well-defined disaster recovery plan for minimal data loss and downtime.
-
-Contributors: 
-Aishwarya Bhargava, Anusha Shivakumar,  Bhavana Devulapally, Shusrita Venugopal.
