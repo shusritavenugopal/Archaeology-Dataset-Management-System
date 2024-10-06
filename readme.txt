@@ -1,4 +1,4 @@
-Center for Comparative Archaeology - Database Management System
+##Center for Comparative Archaeology - Database Management System
 In the realm of archaeological research and resource management, the "Center for Comparative Archaeology" website stands as a pivotal platform designed to facilitate seamless access, contribution, and administration of databases pertinent to the archaeological domain. This user-friendly website offers a simple yet effective way for users to download existing databases and actively contribute to their growth.
 This project is aimed at creating an accessible and user-friendly hub for managing, contributing to, and disseminating archaeological databases. Built using Python Flask, MySQL, SQLAlchemy, HTML, and CSS, this system enables users to view, download, contribute to existing datasets, and request new project creation after registering and logging in.
 
